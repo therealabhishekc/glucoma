@@ -19,7 +19,7 @@ google-auth==1.32.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.38.1
-h5py==2.10.0
+python-h5py==2.10.0
 idna==2.10
 importlib-metadata==4.6.0
 itsdangerous==2.0.1
